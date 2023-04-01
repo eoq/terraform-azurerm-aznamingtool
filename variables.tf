@@ -17,7 +17,7 @@ variable "business_description" {
   type        = string
   description = "The business description tag for the Azure Resource Group resources"
 }
-variable "creator_account" {
+variable "res_creator_account" {
   type        = string
   description = "The res creator account tag for the Azure Resource Group resources"
 }
